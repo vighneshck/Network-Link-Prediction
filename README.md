@@ -13,7 +13,7 @@ The submitted code is a single ipython notebook, containing codes for:
 (vii) Reading from test_public.csv  
 (viii) testing (and generating kaggle submission)  
 
-To open the ipython notebook for exectuion, type the following on the command line:
+To open the ipython notebook for execution, type the following on the command line:
 
 $ jupyter notebook SML_Code_1103842.ipynb
 
