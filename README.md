@@ -1,6 +1,4 @@
-------
-README
-------
+# Network Link Prediction
 
 The submitted code is a single ipython notebook, containing codes for:
 
@@ -15,7 +13,7 @@ The submitted code is a single ipython notebook, containing codes for:
 
 To open the ipython notebook for execution, type the following on the command line:
 
-$ jupyter notebook SML_Code_1103842.ipynb
+`$ jupyter notebook SML_Code_1103842.ipynb`
 
 OR, you can alternatively mount the ipython notebook on Google Colab directly.
 
