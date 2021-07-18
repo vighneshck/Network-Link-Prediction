@@ -2,16 +2,16 @@
 
 The submitted code is a single ipython notebook, containing codes for:
 
-(i) loading training graph from train.txt
-(ii) visualising the loaded graph
+(i) loading training graph from train.txt 
+(ii) visualising the loaded graph 
 (iii) extracting additional node features from JSON file  
 (iv) dataset sampling  
-(v) feature engineering
-(vi) displaying feature importance
+(v) feature engineering 
+(vi) displaying feature importance 
 (vii) Exploratory Data Analysis (EDA) on the engineered dataset 
-(viii) Reading from test_public.csv
-(ix) scaling (optional and model-specific)
-(x) training
+(viii) Reading from test_public.csv 
+(ix) scaling (optional and model-specific) 
+(x) training 
 (xi) testing (and generating kaggle submission) 
 
 To open the ipython notebook for execution, type the following on the command line:
